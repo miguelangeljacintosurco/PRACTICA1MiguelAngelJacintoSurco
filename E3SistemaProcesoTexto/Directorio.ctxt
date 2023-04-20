@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Directorio
+comment1.params=rutaDirectorio
+comment1.target=Directorio(java.lang.String)
+comment2.params=documento
+comment2.target=void\ agregarDocumento(Documento)
+comment3.params=documento
+comment3.target=void\ eliminarDocumento(Documento)
+comment4.params=nombreArchivo
+comment4.target=Documento\ MostrarDocumento(java.lang.String)
+comment5.params=nombreArchivo\ nuevoContenido
+comment5.target=void\ modificarDocumento(java.lang.String,\ java.lang.String)
+numComments=6

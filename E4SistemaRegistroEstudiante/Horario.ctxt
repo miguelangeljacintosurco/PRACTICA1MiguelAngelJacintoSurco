@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Horario
+comment1.params=dia\ horaInicio\ horaFinal
+comment1.target=Horario(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getDia()
+comment3.params=
+comment3.target=int\ getHoraInicio()
+comment4.params=
+comment4.target=int\ getHoraFin()
+comment5.params=
+comment5.target=void\ setHoraInicio()
+comment6.params=
+comment6.target=void\ setHoraFin()
+numComments=7
